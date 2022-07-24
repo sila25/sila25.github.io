@@ -12,19 +12,20 @@ designation: Systems Engineer
 # your company information
 
 # your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate systems engineer with 9 years of working experience. 
+summary: 'I am a passionate software engineer with 9 years of working experience.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "v.musyoka@proton.me"
+  url: "example@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "#"
+  url: "https://www.github.com/example"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -36,6 +37,10 @@ socialLinks:
 
 - name: Twitter
   icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
   url: "#"
 
 # Show your badges
@@ -54,7 +59,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 80
+  percentage: 85
   color: blue
 
 - type: soft-skill-indicator
@@ -63,8 +68,8 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Problem Solving
-  percentage: 90
+  name: Hard Working
+  percentage: 85
   color: orange
 
 # you can also provide color code instead of the color name
