@@ -33,7 +33,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/vincent-musyoka-2a49005a/?_l=en_US"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -56,6 +56,10 @@ badges:
   name: Artificial Intelligence and Machine Learning
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as AWS, Azure etc."
 
 - type: soft-skill-indicator
   name: Leadership
