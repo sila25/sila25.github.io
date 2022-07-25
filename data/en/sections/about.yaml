@@ -46,34 +46,17 @@ socialLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+SoftSkills:
 
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-  
-- type: certification  
-  name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as AWS, Azure etc."
-
-- type: soft-skill-indicator
-  name: Leadership
+- name: Leadership
   percentage: 85
   color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
+- name: Team Work
   percentage: 90
   color: yellow
 
-- type: soft-skill-indicator
-  name: Problem Solving
+- name: Problem Solving
   percentage: 90
   color: orange
 
