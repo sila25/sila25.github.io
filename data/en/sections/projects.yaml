@@ -22,21 +22,21 @@ buttons:
 # your projects
 projects:
 - name: BigData cloud Architecture
-  logo: /images/sections/projects/bigdata.jpg
+  logo: /images/sections/projects/bigdata.png
   role: Lead
   timeline: "March 2017 - 2018"
   summary: Production-Grade Ambari Based 10 node big data setup using AWS VPS Servers.
   tags: ["professional", "kubernetes", "cloud"]
 
 - name: Covert OpSec 
-  logo: /images/sections/projects/opsec.png
+  logo: /images/sections/projects/infosec.png
   role: Developer
   timeline: "Jun 2017 - Present"
   summary: Designed effective covert red team attack infrastructure with multiple team servers.
   tags: ["professional", "hobby"]
 
 - name: DF/IR
-  logo: /images/sections/projects/digitalforensics.jpg
+  logo: /images/sections/projects/digitalforensics.png
   role: Owner
   timeline: "Jan 2022 - June 2022"
   summary: Carried out multiple Digital Forensics, Threat Hunting and Incident Response Scenarios.
@@ -57,7 +57,7 @@ projects:
   tags: ["professional"]
   
 - name: DevOps
-  logo: /images/sections/projects/devops.jpg
+  logo: /images/sections/projects/devops.png
   role: Lead
   timeline: "Feb 2022 - March 2022"
   summary: Designed and Implemented an automated CI/CD Pipeline using Jenkins, Docker, Git and Jira for a team of Coders.
