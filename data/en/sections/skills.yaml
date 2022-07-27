@@ -33,4 +33,9 @@ skills:
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
+  
+- name: Offenisve Security
+  logo: /images/sections/skills/Offenisve_Security.png
+  summary: "Carry out Penetration Testing, Vulnerability Assesment and Adversary Simulations on networks to improve on Security and lockdown vulnerabilities. "
+  url: "https://www.offensive-security.com"
 
