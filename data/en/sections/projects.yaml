@@ -29,14 +29,14 @@ projects:
   tags: ["professional", "kubernetes", "cloud"]
 
 - name: Covert OpSec 
-  logo: /images/sections/projects/tensorflow.png
+  logo: /images/sections/projects/opsec.png
   role: Developer
   timeline: "Jun 2017 - Present"
-  summary: Designed effective covert red team attack infrastructure implementing redirectors and multiple team servers.
+  summary: Designed effective covert red team attack infrastructure with multiple team servers.
   tags: ["professional", "hobby"]
 
 - name: DF/IR
-  logo: /images/sections/projects/digitalforensics.png
+  logo: /images/sections/projects/digitalforensics.jpg
   role: Owner
   timeline: "Jan 2022 - June 2022"
   summary: Carried out multiple Digital Forensics, Threat Hunting and Incident Response Scenarios.
