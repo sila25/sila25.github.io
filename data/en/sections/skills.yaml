@@ -35,7 +35,7 @@ skills:
   url: "https://git-scm.com/"
   
 - name: InfoSec
-  logo: /images/sections/skills/Offenisve_Security.png
+  #logo: /images/sections/skills/Offenisve_Security.png
   summary: "Carry out Penetration Testing, Vulnerability Assesment and Adversary Simulations on networks to improve on Security and lockdown vulnerabilities."
   url: "https://www.offensive-security.com/"
-
+  
