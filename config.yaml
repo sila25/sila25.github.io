@@ -11,15 +11,19 @@ languages:
     languageName: English
     weight: 1
     
+  bn:
+    languageName: বাংলা
+    weight: 3
+    
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
 
 # Allow raw html in markdown file
 markup:
- # goldmark:
-  #  renderer:
-   #   unsafe: true
+    goldmark:
+     renderer:
+      unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
@@ -86,7 +90,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: false
+      enable: true
 
     # Enable comment feature. There, should be only one of them.
     comment:
