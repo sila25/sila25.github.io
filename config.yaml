@@ -2,7 +2,7 @@ baseURL: https://sila25.github.io
 
 languageCode: en-us
 title: "Sila's Blog"
-theme: "toha"
+#theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -10,6 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
+  bn:
+    languageName: বাংলা
+    weight: 3
     
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -17,9 +20,9 @@ languages:
 
 # Allow raw html in markdown file
 markup:
- # goldmark:
-  #  renderer:
-   #   unsafe: true
+  goldmark:
+    renderer:
+      unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
