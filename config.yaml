@@ -23,7 +23,7 @@ languages:
 markup:
     goldmark:
      renderer:
-      unsafe: true
+       unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
