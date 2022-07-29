@@ -20,10 +20,10 @@ languages:
 # DefaultContentLanguage: bn
 
 # Allow raw html in markdown file
-markup:
-    goldmark:
-     renderer:
-       unsafe: true
+#markup:
+   # goldmark:
+  #   renderer:
+ #      unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
