@@ -1,7 +1,7 @@
 baseURL: https://sila25.github.io
 
 languageCode: en-us
-title: "Sila's Blog"
+title: "Sila"
 theme: "toha"
 
 # Manage languages
@@ -10,7 +10,7 @@ languages:
   en:
     languageName: English
     weight: 1
-    
+
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -47,7 +47,7 @@ params:
    main: /images/site/main-logo.png
    inverted: /images/site/inverted-logo.png
    favicon: /images/site/favicon.png
-   
+
   # GitHub repo of your site
   gitRepo: https://github.com/sila25/sila25.github.io
   # Default branch of your Git repo
