@@ -21,27 +21,19 @@ summary: 'I am a passionate Security Systems Engineer with 9 years of working ex
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "v.musyoka@proton.me"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://www.github.com/sila25"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/vincent-musyoka-2a49005a/?_l=en_US"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -69,12 +61,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 80
   color: yellow
 
 - type: soft-skill-indicator
   name: Problem Solving
-  percentage: 95
+  percentage: 90
   color: orange
 
 
