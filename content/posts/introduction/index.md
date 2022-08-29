@@ -1,18 +1,24 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Follina"
+date: 2022-07-08T08:06:25+06:00
+description: New Vulnerability Exploited in the Wild
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Vulnerability
+    identifier: Information Security
     weight: 10
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: ["Basic", "InfoSec"]
+categories: ["InfoSec"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+A new vulnerability has been discovered in Windows that is critical and can be exploited by attackers.
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+The vulnerability is called “Follina”, and it affects all versions of Windows from Vista to Windows 10.
+
+This vulnerability is known to have been exploited in the wild, but Microsoft has already released a patch for this vulnerability.
+
+I will be going into an in depth how to guide on how to Exploit the Flaw in my next post to showcase how easy it is for attackers out there.
+
+I will also provide measures of mitigating it with the simplest being updating your windows OS as the vulnerability has been patched
+
+DISCLAIMER: All Information covered in my posts are for Educational purposes ONLY.
